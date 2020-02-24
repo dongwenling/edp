@@ -17,7 +17,7 @@ public class Ef {
             if (arr[mid] > key) {
                 max =mid-1;
             }else if (arr[mid]<key){
-                min=mid+1;K
+                min=mid+1;
             }else {
                 System.out.println("有key:"+arr[mid]+"下标为："+mid);
                 System.exit(0);
