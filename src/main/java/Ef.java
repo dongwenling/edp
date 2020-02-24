@@ -4,8 +4,9 @@ import java.util.Scanner;
 public class Ef {
     public static void main(String args[]){
         int[] arr=new int[]{19,23,78,90};
-        for(int i=0;i<arr.length;i++){
-            System.out.print(arr[i]+" ");
+        for(int i=0;i<arr.length;i++) {
+            System.out.print(arr[i] + " ");
+        }
         System.out.println("请输入您的key值：");
         Scanner sc=new Scanner(System.in);
         int key=sc.nextInt();
