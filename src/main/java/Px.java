@@ -16,7 +16,7 @@ public class Px {
             }
         }
         for(int i:arr){
-            System.out.println(i+" ");
+            System.out.print(i+" ");
         }
     }
 }
