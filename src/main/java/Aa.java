@@ -1,3 +1,4 @@
+//2+22+222+2222+......
 import java.util.Scanner;
 
 public class Aa {
