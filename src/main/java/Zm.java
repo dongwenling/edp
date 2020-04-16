@@ -1,4 +1,4 @@
-//输入一行字母进行排序
+//输入一行字母进行倒序
 import java.util.Scanner;
 
 public class Zm {
